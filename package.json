@@ -4,5 +4,24 @@
     "express": "^4.18.2",
     "localxpose": "^0.0.4",
     "morgan": "^1.10.0"
-  }
+  },
+  "name": "graph-modeling-go-js-",
+  "description": "the build made for graph modeling which can be model with help of 5 components ,its a simple project stand under alpha stage for testing , maintaince will be considered under low priority",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start":"nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kichukic/Graph-Modeling-GO-JS-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kichukic/Graph-Modeling-GO-JS-/issues"
+  },
+  "homepage": "https://github.com/kichukic/Graph-Modeling-GO-JS-#readme"
 }
